@@ -2,6 +2,7 @@
   <div class="container">
   <div class="row">
     <div class="col-xs-12">
+      <h1>AAAAAAAAAA</h1>
       <button class="plava" @click="selectedComponent = 'appBlue'">Blue Template</button>
       <button class="crvena" @click="selectedComponent = 'appRed'">Red Template</button>
       <button class="zelena" @click="selectedComponent = 'appGreen'">Green Template</button>
